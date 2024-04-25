@@ -1,6 +1,6 @@
 # testing-practice
 
-This is testing practice with Jest. The exercise is part of The Odin Project curriculum :
+This is testing practice with **Jest**. The exercise is part of The Odin Project curriculum :
 
 https://www.theodinproject.com/lessons/node-path-javascript-testing-practice
 
